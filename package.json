@@ -7,17 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/aggre/try-now.git"
-  },
   "author": "aggre",
   "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/aggre/try-now/issues"
-  },
-  "homepage": "https://gitlab.com/aggre/try-now#README",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggre/try-now.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aggre/try-now/issues"
+  },
+  "homepage": "https://github.com/aggre/try-now#readme"
 }

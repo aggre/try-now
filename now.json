@@ -1,5 +1,6 @@
 {
 	"version": 2,
 	"alias": "try-now",
-	"builds": [{ "src": "index.js", "use": "@now/node" }]
+	"builds": [{ "src": "index.js", "use": "@now/node" }],
+	"routes": [{ "src": "(.*)", "dest": "index.js" }]
 }

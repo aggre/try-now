@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "micro"
   },
   "author": "aggre",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "micro": "^9.3.3"
   },
   "repository": {
     "type": "git",

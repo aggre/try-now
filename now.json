@@ -1,3 +1,5 @@
 {
-	"alias": "try-now"
+	"version": 2,
+	"alias": "try-now",
+	"builds": [{ "src": "index.js", "use": "@now/node" }]
 }

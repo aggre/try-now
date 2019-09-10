@@ -5,13 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "micro"
+    "start": "now dev"
   },
   "author": "aggre",
   "license": "MIT",
-  "dependencies": {
-    "micro": "^9.3.3"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aggre/try-now.git"
